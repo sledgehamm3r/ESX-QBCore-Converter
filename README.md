@@ -13,7 +13,7 @@
   <h3 align="center">ESX-QBCore-Converter</h3>
 
   <p align="center">
-    Spieler können eine gewisse Zeit AFK sein
+    A converter ESX to QBCore and QBCore to ESX
     <br />
     <a href="https://github.com/sledgehamm3r/ESX-QBCore-Converter"><strong>Documentation »</strong></a>
     <br />
