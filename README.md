@@ -10,7 +10,7 @@
     <img src="logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">AFK Script</h3>
+  <h3 align="center">ESX-QBCore-Converter</h3>
 
   <p align="center">
     Spieler können eine gewisse Zeit AFK sein
