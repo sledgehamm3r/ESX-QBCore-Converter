@@ -6,7 +6,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/sledgehamm3r/afk">
+  <a href="https://github.com/sledgehamm3r/ESX-QBCore-Converter">
     <img src="logo.png" alt="Logo" width="80" height="80">
   </a>
 
