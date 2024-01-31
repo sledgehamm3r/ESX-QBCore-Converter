@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sledge.dev-esx-qb-converter", "sledge.dev-esx-qb-converter.csproj", "{EDCE723B-491D-43E2-933A-24DD5309703A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDCE723B-491D-43E2-933A-24DD5309703A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDCE723B-491D-43E2-933A-24DD5309703A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDCE723B-491D-43E2-933A-24DD5309703A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDCE723B-491D-43E2-933A-24DD5309703A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8726994E-A381-43D1-82CF-D0E4AF9EB4BB}
+	EndGlobalSection
+EndGlobal

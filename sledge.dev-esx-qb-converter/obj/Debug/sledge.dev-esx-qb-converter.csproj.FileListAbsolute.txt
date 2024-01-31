@@ -1,0 +1,10 @@
+C:\Users\ronny\source\repos\sledge.dev-esx-qb-converter\bin\Debug\sledge.dev-esx-qb-converter.exe.config
+C:\Users\ronny\source\repos\sledge.dev-esx-qb-converter\bin\Debug\sledge.dev-esx-qb-converter.exe
+C:\Users\ronny\source\repos\sledge.dev-esx-qb-converter\bin\Debug\sledge.dev-esx-qb-converter.pdb
+C:\Users\ronny\source\repos\sledge.dev-esx-qb-converter\obj\Debug\sledge.dev-esx-qb-converter.csproj.AssemblyReference.cache
+C:\Users\ronny\source\repos\sledge.dev-esx-qb-converter\obj\Debug\sledge.dev_esx_qb_converter.Form1.resources
+C:\Users\ronny\source\repos\sledge.dev-esx-qb-converter\obj\Debug\sledge.dev_esx_qb_converter.Properties.Resources.resources
+C:\Users\ronny\source\repos\sledge.dev-esx-qb-converter\obj\Debug\sledge.dev-esx-qb-converter.csproj.GenerateResource.cache
+C:\Users\ronny\source\repos\sledge.dev-esx-qb-converter\obj\Debug\sledge.dev-esx-qb-converter.csproj.CoreCompileInputs.cache
+C:\Users\ronny\source\repos\sledge.dev-esx-qb-converter\obj\Debug\sledge.dev-esx-qb-converter.exe
+C:\Users\ronny\source\repos\sledge.dev-esx-qb-converter\obj\Debug\sledge.dev-esx-qb-converter.pdb
