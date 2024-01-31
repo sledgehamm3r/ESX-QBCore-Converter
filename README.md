@@ -15,12 +15,12 @@
   <p align="center">
     Spieler können eine gewisse Zeit AFK sein
     <br />
-    <a href="https://github.com/sledgehamm3r/ESX-QBCore-Converter"><strong>Dokumentation ansehen »</strong></a>
+    <a href="https://github.com/sledgehamm3r/ESX-QBCore-Converter"><strong>Documentation »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/sledgehamm3r/ESX-QBCore-Converter/issues">Bug melden</a>
+    <a href="https://github.com/sledgehamm3r/ESX-QBCore-Converter/issues">report Bug</a>
     ·
-    <a href="https://github.com/sledgehamm3r/ESX-QBCore-Converter/issues">Anfrage stellen</a>
+    <a href="https://github.com/sledgehamm3r/ESX-QBCore-Converter/issues">Issues</a>
   </p>
 </div>
 
@@ -28,29 +28,28 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Inhaltsverzeichnis</summary>
+  <summary>Summary</summary>
   <ol>
     <li>
-      <a href="#about-the-project">Über das Projekt</a>
+      <a href="#about-the-project">About the Project</a>
       <ul>
-        <li><a href="#built-with">Erstellt mit</a></li>
+        <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Verwendung</a>
+      <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Voraussetzungen</a></li>
-        <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Benutzung</a></li>
+    <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#contact">Kontakt</a></li>
-    <li><a href="#acknowledgments">Danksagungen</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
+
 
 
 
